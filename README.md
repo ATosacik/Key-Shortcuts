@@ -34,8 +34,9 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 
 - `Win + D` – Show desktop  
 - `Win + E` – Open File Explorer  
-- `Win + L` – Lock screen  
-- `Win + Arrow keys` – Snap windows  
+- `Win + L` – Lock screen
+- `Win + PrtSc` – Take screenshot and save to Pictures folder  
+- `Win + Ctrl + Shift + B` – Reset graphics/display driver (screen flicker, crash fix)  
 - `Win + Shift + S` – Snip & Sketch  
 - `Ctrl + Shift + Esc` – Open Task Manager  
 - `Alt + F4` – Close current window  
@@ -45,13 +46,18 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 ## macOS Shortcuts
 
 - `Cmd + Space` – Spotlight search  
+- `Cmd + Tab` – Switch apps  
+- `Cmd + Option + Esc` – Force quit  
 - `Cmd + Q` – Quit app  
 - `Cmd + W` – Close window/tab  
 - `Cmd + H` – Hide current window  
-- `Cmd + Shift + 4` – Screenshot selection
+- `Cmd + M` – Minimize active window  
+- `Option + Cmd + M` – Minimize all windows  
+- `Ctrl + Cmd + F` – Toggle fullscreen for active app  
+- `Esc` – Exit fullscreen mode  
+- `Cmd + Shift + 3` – Full screenshot  
+- `Cmd + Shift + 4` – Select area to capture  
 - `Cmd + Shift + A` – Open Applications  
-- `Cmd + Tab` – Switch apps  
-- `Cmd + Option + Esc` – Force quit  
 
 ---
 
@@ -64,7 +70,8 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 - `Ctrl + W` / `Cmd + W` – Close tab  
 - `Ctrl + L` / `Cmd + L` – Focus address bar  
 - `Ctrl + R` / `Cmd + R` – Reload page  
-- `Ctrl + Shift + B` / `Cmd + Shift + B` – Toggle bookmarks bar  
+- `Ctrl + Shift + B` / `Cmd + Shift + B` – Toggle bookmarks bar
+- `Ctrl + Shift + N` / `Cmd + Shift + N` – Open new browser window in incognito/private mode  
 - `F12` / `Cmd + Option + I` – Developer tools
 - `Ctrl + Shift + C` / `Cmd + Shift + C` | Open developer tools (Inspect element)
 
