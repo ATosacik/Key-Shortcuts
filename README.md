@@ -2,7 +2,7 @@
 
 A curated collection of essential keyboard shortcuts for general use, Windows, macOS, browsers, and VS Code to boost your productivity.
 
-## 📂 Quick Navigation
+## Quick Navigation
 
 - [General](#general-shortcuts)  
 - [Windows](#windows-shortcuts)  
@@ -22,7 +22,11 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 - `Ctrl + A` / `Cmd + A` – Select all  
 - `Alt + Tab` / `Cmd + Tab` – Switch windows/apps  
 - `Ctrl + F` / `Cmd + F` – Find  
-- `Ctrl + S` / `Cmd + S` – Save  
+- `Ctrl + S` / `Cmd + S` – Save
+- `Ctrl + Backspace` – Delete the previous word  
+- `Ctrl + ←` / `Cmd + ←` or `Ctrl + →` / `Cmd + →` – Move cursor by words  
+- `Shift + ←` / `Shift + →` / `Shift + ↑` / `Shift + ↓` – Select by characters  
+- `Ctrl + Shift + ←` / `Option + Shift + ←` or `Ctrl + Shift + →` / `Option + Shift + →` – Select by words  
 
 ---
 
@@ -44,7 +48,8 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 - `Cmd + Q` – Quit app  
 - `Cmd + W` – Close window/tab  
 - `Cmd + H` – Hide current window  
-- `Cmd + Shift + 4` – Screenshot selection  
+- `Cmd + Shift + 4` – Screenshot selection
+- `Cmd + Shift + A` – Open Applications  
 - `Cmd + Tab` – Switch apps  
 - `Cmd + Option + Esc` – Force quit  
 
@@ -60,7 +65,8 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 - `Ctrl + L` / `Cmd + L` – Focus address bar  
 - `Ctrl + R` / `Cmd + R` – Reload page  
 - `Ctrl + Shift + B` / `Cmd + Shift + B` – Toggle bookmarks bar  
-- `F12` / `Cmd + Option + I` – Developer tools  
+- `F12` / `Cmd + Option + I` – Developer tools
+- `Ctrl + Shift + C` / `Cmd + Shift + C` | Open developer tools (Inspect element)
 
 ---
 
