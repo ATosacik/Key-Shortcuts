@@ -12,7 +12,7 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 
 ---
 
-## 📋 General Shortcuts
+## General Shortcuts
 
 - `Ctrl + C` / `Cmd + C` – Copy  
 - `Ctrl + V` / `Cmd + V` – Paste  
@@ -26,7 +26,7 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 
 ---
 
-## 🪟 Windows Shortcuts
+## Windows Shortcuts
 
 - `Win + D` – Show desktop  
 - `Win + E` – Open File Explorer  
@@ -38,7 +38,7 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 
 ---
 
-## 🍎 macOS Shortcuts
+## macOS Shortcuts
 
 - `Cmd + Space` – Spotlight search  
 - `Cmd + Q` – Quit app  
@@ -50,7 +50,7 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 
 ---
 
-## 🌐 Browser Shortcuts
+## Browser Shortcuts
 
 - `Ctrl + T` / `Cmd + T` – New tab  
 - `Ctrl + Shift + T` / `Cmd + Shift + T` – Reopen closed tab  
@@ -64,7 +64,7 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 
 ---
 
-## 💻 VS Code Shortcuts
+## VS Code Shortcuts
 
 - `Ctrl + P` / `Cmd + P` – Quick file open  
 - `Ctrl + Shift + P` / `Cmd + Shift + P` – Command palette  
