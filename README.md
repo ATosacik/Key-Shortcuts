@@ -58,6 +58,9 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 - `Cmd + Shift + 3` – Full screenshot  
 - `Cmd + Shift + 4` – Select area to capture  
 - `Cmd + Shift + A` – Open Applications  
+- `Fn + Ctrl + F` – Fill window on fullscreen without activating fullscreen  
+- `Fn + Ctrl + C` – Center window  
+- `Cmd + B` – Quick search in browser
 
 ---
 
