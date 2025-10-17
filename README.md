@@ -60,7 +60,7 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 - `Cmd + Shift + A` – Open Applications  
 - `Fn + Ctrl + F` – Fill window on fullscreen without activating fullscreen  
 - `Fn + Ctrl + C` – Center window  
-- `Cmd + B` – Quick search in browser
+- `Cmd + B` – Spotlite text will be searched in browser
 
 ---
 
