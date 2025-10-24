@@ -85,7 +85,7 @@ A curated collection of essential keyboard shortcuts for general use, Windows, m
 - <kbd>Ctrl</kbd> + <kbd>/</kbd> / <kbd>Cmd</kbd> + <kbd>/</kbd> – Toggle comment  
 - <kbd>Ctrl</kbd> + <kbd>B</kbd> / <kbd>Cmd</kbd> + <kbd>B</kbd> – Toggle sidebar  
 - <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> / <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> – Go to symbol  
-- <kbd>Ctrl</kbd> + <kbd>`</kbd> / <kbd>Cmd</kbd> + <kbd>`</kbd> – Toggle terminal  
+- <kbd>Ctrl</kbd> + <kbd> / </kbd> <kbd>Cmd</kbd> + <kbd>`</kbd> – Toggle terminal  
 - <kbd>Alt</kbd> + <kbd>↑</kbd> / <kbd>↓</kbd> / <kbd>Option</kbd> + <kbd>↑</kbd> / <kbd>↓</kbd> – Move line up/down  
 - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> / <kbd>Cmd</kbd> + <kbd>Option</kbd> + <kbd>F</kbd> – Find and replace 
 - <kbd>Ctrl</kbd> + <kbd>Space</kbd> / <kbd>Cmd</kbd> + <kbd>Space</kbd> – Trigger suggestions  
