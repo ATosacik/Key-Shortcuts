@@ -1,6 +1,6 @@
 # 🗿 Useful Shortcuts
 
-A curated collection of essential keyboard shortcuts for general use, Windows, macOS, browsers, and VS Code to boost your productivity.
+Keyboard shortcuts for general use, Windows, macOS, browsers and VS Code to boost your productivity.
 
 ## Quick Navigation
 
